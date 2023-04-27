@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title> Produtos </title> 
+    <link rel="stylesheet" href="estilo.css" >
+     <meta chartset="UTF-8">  
+    <link rel="stylesheet" href="reset.css" >
+</head>
+
+<body>
+   <div class="imagem"> <img id="banner" src="bg.jpg"> </div>
+    <nav> 
+        <ul>  
+            <li> <a href="index.html"> Início </a> </li>
+            <li> Produtos </li>           
+            <li> <a href="contato.html"> Contato </a> </li>
+         </ul>
+    </nav>
+
+</body>
+
+<footer> 
+<img src="logo.png">
+<p class="rodape"> &copy; Front-end <br> nome do aluno - 2023 </p>
+</footer>
+
+</html>
+
+
